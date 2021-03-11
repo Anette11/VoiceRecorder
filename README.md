@@ -9,4 +9,6 @@ For Audio player layout is used BottomSheetBehavior with expanded and collapsed 
 
 Custom keyboard is to input text into EditText field of Rename AlertDialog.
 
-<img src="2.png" width="216" heigth="384"> <img src="3.png" width="216" heigth="384"> <img src="1.png" width="216" heigth="384"> <img src="4.png" width="216" heigth="384">
+<img src="2.png" width="216" heigth="384"> <img src="3.png" width="216" heigth="384">
+
+<img src="1.png" width="216" heigth="384"> <img src="4.png" width="216" heigth="384">
