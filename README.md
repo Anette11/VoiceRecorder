@@ -3,6 +3,8 @@ VoiceRecorder created in Android Studio
 
 To start or stop audio recording press microphone ImageView. When audio is in process ImageView changes background color, Chronometer starts working.
 
+All audio recordings are stored in external storage.
+
 Navigation component is used to reach FragmentAudioRecorder or FragmentAudioList.
 
 For Audio player layout is used BottomSheetBehavior with expanded and collapsed states.
